@@ -1,0 +1,87 @@
+baseURL = "http://example.org/"
+languageCode = "pt-br"
+title = "Kelvin Dias"
+defaultContentLanguage = "pt-br"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+
+[params]
+title = "Kelvin Dias"
+author = "Kelvin Dias"
+description = "Aqui tem de tudo: #OSINT, Linux, Redes, SegInfo, Computação Forense, Cybersecurity e muito mais."
+profilePicture = "img/eu.jpg"
+contentratio = 0.7
+disableThemeSwitcher = true
+rssFullContent = true
+doNotLoadAnimations = true
+
+#Formato das DAtas
+singleDateFormat = "Mon, 2 Jan, 2006"
+indexDateFormat = "Mon, 2 Jan, 2006"
+listDateFormat = "2 Jan"
+
+# ========================================================
+# REDES SOCAIS - PAGINA INICIAL
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/kelvindias/"
+
+[[params.socialIcons]]
+icon = "fab fa-instagram"
+title = "Instagram"
+url = "https://www.instagram.com/kdforensecomputacional/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://github.com/kelvindias"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "E-mail: Apenas coisas importantes"
+url = "mailto:contato@kelvindias.com.br"
+# ========================================================
+
+# ========================================================
+# MENU
+
+[menu]
+[[menu.main]]
+name = "Início"
+title = "Volte para o Início"
+identifier = "home"
+url = "/"
+weight = 100
+
+[[menu.main]]
+name = "Posts"
+title = "Todos os posts"
+identifier = "posts"
+url = "/posts/"
+weight = 200
+
+[[menu.main]]
+name = "Categorias"
+title = "Diversas Categorias"
+identifier = "categories"
+url = "/categories/"
+weight = 300
+
+[[menu.main]]
+name = "Sobre"
+title = "Sobre mim"
+identifier = "about"
+url = "/sobre/"
+weight = 400
+# ========================================================
+
+# ========================================================
+# CONFIG PARA RSS
+
+[outputs]
+home = ["HTML"]
+section = ["HTML", "RSS"]
+taxonomy = ["HTML"]
+taxonomyTerm = ["HTML"]

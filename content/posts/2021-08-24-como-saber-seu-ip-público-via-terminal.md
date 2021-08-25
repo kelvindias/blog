@@ -12,9 +12,9 @@ Para quem gosta de terminais linux, é muito fácil saber qual o IP da sua inter
 
 <!--more-->
 
-A resposta é muito simples e vou ser direto, para que você já possa usar/testar agora mesmo. A coisa acontece com uma ferramenta chamada `curl`. Curl é uma ferramenta usada para transferir dados de ou para um servidor. Geralmente é usado com o protocolo HTTP que é um dos que a ferramenta suporta.
+A resposta é muito simples e vou ser direto, para que você já possa usar/testar agora mesmo. A coisa acontece com uma ferramenta chamada ```curl```. Curl é uma ferramenta usada para transferir dados de ou para um servidor. Geralmente é usado com o protocolo HTTP que é um dos que a ferramenta suporta.
 
-Tendo o `curl` instalado na máquina, basta usar com algum dos endereços abaixo. O ifconfig.me é o mais conhecido e fácil de executar.
+Tendo o ```curl``` instalado na máquina, basta usar com algum dos endereços abaixo. O ifconfig.me é o mais conhecido e fácil de executar.
 
 > $ curl ifconfig.me
 >

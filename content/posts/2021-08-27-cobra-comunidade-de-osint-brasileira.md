@@ -7,7 +7,7 @@ tags:
   - computaçãoforense
   - investigação
 categories:
-  - "#OSINT"
+  - OSINT
 ---
 Iniciativa criada pelo perito digital Romullo Carvalho com o propósito de fomentar sobre OSINT no Brasil. Atualmente é a maior comunidade criada no Brasil sobre o assunto, contando já com mais de 400 membros.
 

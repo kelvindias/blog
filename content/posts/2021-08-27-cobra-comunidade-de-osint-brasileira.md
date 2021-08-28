@@ -11,6 +11,8 @@ categories:
 ---
 Iniciativa criada pelo perito digital Romullo Carvalho com o propósito de fomentar sobre OSINT no Brasil. Atualmente é a maior comunidade criada no Brasil sobre o assunto, contando já com mais de 400 membros.
 
+<!--more-->
+
 - - -
 
 Open Source Intelligence - OSINT, se refere na obtenção de informações via internet, que podem ser encontradas de maneira pública, sem violar leis de direitos autorais ou privacidade.

@@ -1,7 +1,9 @@
 ---
 title: COBRA - Comunidade de OSINT Brasileira
 date: 2021-08-27T23:48:46.357Z
-description: Conheça a comunidade brasileira que mais cresce no Brasil sobre OSINT
+description: Iniciativa criada pelo perito digital Romullo Carvalho com o
+  propósito de fomentar sobre OSINT no Brasil. Atualmente é a maior comunidade
+  criada no Brasil sobre o assunto, contando já com mais de 400 membros.
 tags:
   - osint
   - computaçãoforense

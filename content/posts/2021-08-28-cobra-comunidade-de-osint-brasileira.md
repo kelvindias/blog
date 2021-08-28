@@ -1,6 +1,6 @@
 ---
 title: COBRA - Comunidade de OSINT Brasileira
-date: 2021-08-28T00:21:48.559Z
+date: 2021-08-28T17:12:57.455Z
 description: Iniciativa criada pelo perito digital Romullo Carvalho com o
   propósito de fomentar sobre OSINT no Brasil. Atualmente é a maior comunidade
   criada no Brasil sobre o assunto, contando já com mais de 400 membros.
@@ -23,7 +23,7 @@ Usada em diversas áreas como jornalismo, computação forense, cybersegurança,
 
 Com meus estudos de computação forense, eu conheci o [Romullo Carvalho](https://www.linkedin.com/in/romullo-carvalho/ "LinkedIn - Romullo Carvalho"). Membro da APECOF - Associação Nacional dos Peritos em Computação Forense, Romullo possui um vasto currículo e tempo de mercado de TI, é membro da SECESU-CE, Keynote no OSINT Village da H2HC, organizador da #semanaOSINT, voluntário na ONG Marias da Internet, no projeto Justiceiras e **fundador da Comunidade de OSINT Brasileira (COBRA)**. Foi através do Romullo que conheci mais sobre OSINT, me aprofundei um pouco mais no assunto e tive a oportunidade de fazer parte de sua equipe de apoio no seu curso #OSINT - Fontes Abertas e Investigação na Web, nas duas turmas até então lancadas.
 
-![COBRA - Comunidade de OSINT Brasileira](blob:https://kelvindias.com.br/3d79203f-3684-45f4-8452-55c210155084 "COBRA")
+![COBRA - Comunidade de OSINT Brasileira](/img/b6f2c9d62d27009c152f6c182feb7a67.png "COBRA")
 
 O COBRA foi uma ideia do Romullo criada a partir da sua observação de outras comunidades de OSINT de outras nações. Ele sentiu a necessidade de criar uma comunidade no âmbito nacional, incentivando ferramentas nacionais, a troca de conhecimentos e experiências dentro do nosso país com o uso de fontes abertas. Hoje com mais de 400 membros, a comunidade caminha bem, tendo em vista que a comunidade anda só, sem a necessidade de supervisão dos co-fundadores.
 
